@@ -1,3 +1,5 @@
-Mi nombre es primera prueba
+Esta es mi primera prueba con git y github 
 
-voy a hacer mi primer repositorio tipo get 
+Mi nombre es Diego Camargo
+
+voy a hacer mi primer repositorio 
